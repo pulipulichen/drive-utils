@@ -1,5 +1,7 @@
 # cors-upload-sample
 
+https://pulipulichen.github.io/drive-utils/
+
 Sample code for uploading files directly with vanilla Javascript (XHR/CORS). Try the [live version](http://googledrive.github.io/cors-upload-sample)
 and drag & drop files to upload them to Google Drive.
 
