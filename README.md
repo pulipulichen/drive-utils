@@ -1,5 +1,8 @@
 # Drive Utils
 
+Live: https://pulipulichen.github.io/drive-utils/
+Upload file to your google drive directly.
+
 ## [Deduper](deduper/)
 
 Finds duplicate files in Drive based on md5 checksum and offers to trash them.
